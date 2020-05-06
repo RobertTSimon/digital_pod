@@ -1,4 +1,4 @@
-baseurl = "https://digital-pod.now.sh/"
+baseurl = "/"
 title = "Robert Simon"
 theme = "hugo-coder"
 languagecode = "en"
